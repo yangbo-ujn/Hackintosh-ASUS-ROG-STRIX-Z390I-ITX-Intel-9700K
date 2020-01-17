@@ -1,8 +1,8 @@
 # Hackintosh-Z390I-ITX-9700K
-MAC OSX Catalina 15.2 installed on PROG-Z390I Motherboard with Core I7-9700K
+MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with Core I7-9700K
 
 一 硬件配置
-华硕 Prog Z390-I ITX 主板
+华硕 Rog Z390-I ITX 主板
 Intel 970 M.2 接口 512GB SSD, 三星 EVO PRO M.2接口 512GB SSD
 32GB (16GB X2) DDR4 RAM
 
