@@ -1,4 +1,4 @@
-# Hackintosh-Z390I-ITX-9700K
+# Hackintosh-Asus Z390I ITX 9700K
 MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with Core I7-9700K
 
 一 硬件配置
