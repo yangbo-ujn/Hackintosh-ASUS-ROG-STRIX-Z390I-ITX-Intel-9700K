@@ -24,11 +24,11 @@
 
   (3)Install OpenCoer 0.5.4 or above to the EFI partition on USB stick
 
-  (4)Boot for the USB stick and install MacOS Catalina
+  (4)Boot from the USB stick and install MacOS Catalina (using UEFI boot only)
 
 ## 3. Working
 
-  Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
+  Catalina 15.1 install and boots successfully, and than updated to 15.2, 15.3 (with OpenCore 0.5.6)
 
   Yeston RX 560D DP output linked to an AOC 27" 4K display
 
