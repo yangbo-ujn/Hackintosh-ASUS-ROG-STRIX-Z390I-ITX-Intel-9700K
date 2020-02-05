@@ -1,4 +1,4 @@
-# MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with OpenCore 0.5.4
+# MAC OSX Catalina 15.2 installed on ASUS ROG Z390I Motherboard with OpenCore 0.5.4
 
 ## 1. Platform Part List
 
@@ -8,7 +8,7 @@
 
   Memory:	DDR4 32GB (2x16GB) 3200MHz Memory
 
-  Video Card:	Yeston  Radeon RX 560D 4 GB Video Card
+  Video Card:	Yeston  Radeon RX 560D 4 GB Video Card (1 DP, 1 HDMI)
 
   SSD1:  Samsung 970 PRO 512GB M.2 NVMe SSD (For MacOS Catalina)
 
