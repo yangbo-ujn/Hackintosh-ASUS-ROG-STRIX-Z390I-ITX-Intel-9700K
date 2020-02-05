@@ -1,6 +1,6 @@
 # MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with OpenCore 0.5.4
 
-##1. Platform Part List
+## 1. Platform Part List
 
   CPU:	Intel  Core i7-9700K 3.6 GHz 8-Core Processor
 
@@ -14,7 +14,7 @@
 
   SSD2:  Intel 760P 512GB M.2 NVMe SSD (For Windows10)
 
-$$2. USB stick for install
+## 2. USB stick for install
 
   (1) On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system;
 
@@ -26,7 +26,7 @@ $$2. USB stick for install
 
   (4)Boot for the USB stick and install MacOS Catalina
 
-##3. Working
+## 3. Working
 
   Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
 
@@ -42,6 +42,6 @@ $$2. USB stick for install
 
   On board Bluetooth
 
-##4. Not Working
+## 4. Not Working
 
   WIFI (Intel 9560 on ASUS ROG STRIX Z390I Motherboard)
