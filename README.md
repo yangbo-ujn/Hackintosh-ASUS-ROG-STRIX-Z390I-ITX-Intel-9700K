@@ -2,35 +2,35 @@
 
 1. Platform Part List
 
-CPU	Intel  Core i7-9700K 3.6 GHz 8-Core Processor
+  CPU:	Intel  Core i7-9700K 3.6 GHz 8-Core Processor
 
-Motherboard	Asus - ROG STRIX Z390I HERO ITX LGA1151 Motherboard
+  Motherboard:	Asus - ROG STRIX Z390I HERO ITX LGA1151 Motherboard
 
-Memory	DDR4 32GB (2x16GB) 3200MHz Memory
+  Memory:	DDR4 32GB (2x16GB) 3200MHz Memory
 
-Video Card	Yeston - Radeon RX 560D 4 GB Video Card
+  Video Card:	Yeston - Radeon RX 560D 4 GB Video Card
 
-SSD1  Samsung 970 PRO 512GB M.2 NVMe SSD (For MacOS Catalina)
+  SSD1:  Samsung 970 PRO 512GB M.2 NVMe SSD (For MacOS Catalina)
 
-SSD2  Intel 760P 512GB M.2 NVMe SSD (For Windows10)
+  SSD2:  Intel 760P 512GB M.2 NVMe SSD (For Windows10)
 
 2. USB stick for install
 
-(1)On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system;
+  (1) On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system;
 
-(2)Create a macOS USB installer:
+  (2)Create a macOS USB installer:
 
   sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Catalina /Applications/Install\ macOS\ Catalina.app --nointeraction
 
-(3)Install OpenCoer 0.5.4 or above to the EFI partition on USB stick
+  (3)Install OpenCoer 0.5.4 or above to the EFI partition on USB stick
 
-(4)Boot for the USB stick and install MacOS Catalina
+  (4)Boot for the USB stick and install MacOS Catalina
 
 3. Working
 
-Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
+  Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
 
-Yeston RX 560D DP output linked to an AOC 27" 4K display
+  Yeston RX 560D DP output linked to an AOC 27" 4K display
 
 Wired Ethernet - Intel I219V7 PCI Express Gigabit Ethernet
 
