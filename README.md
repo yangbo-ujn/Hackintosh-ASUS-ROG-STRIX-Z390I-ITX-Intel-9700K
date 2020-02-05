@@ -4,11 +4,11 @@
 
   CPU:	Intel  Core i7-9700K 3.6 GHz 8-Core Processor
 
-  Motherboard:	Asus - ROG STRIX Z390I HERO ITX LGA1151 Motherboard
+  Motherboard:	Asus ROG STRIX Z390I ITX LGA1151 Motherboard
 
   Memory:	DDR4 32GB (2x16GB) 3200MHz Memory
 
-  Video Card:	Yeston - Radeon RX 560D 4 GB Video Card
+  Video Card:	Yeston  Radeon RX 560D 4 GB Video Card
 
   SSD1:  Samsung 970 PRO 512GB M.2 NVMe SSD (For MacOS Catalina)
 
@@ -32,16 +32,16 @@
 
   Yeston RX 560D DP output linked to an AOC 27" 4K display
 
-Wired Ethernet - Intel I219V7 PCI Express Gigabit Ethernet
+  Wired Ethernet - Intel I219V7 PCI Express Gigabit Ethernet
 
-USB ports
+  USB ports
 
-Sleep/Wake
+  Sleep/Wake
 
-Audio (ALC1220) with DP 
+  Audio (ALC1220) with DP 
 
-On board Bluetooth
+  On board Bluetooth
 
 4. Not Working
 
-WIFI (Intel 9560 on ASUS ROG STRIX Z390I Motherboard)
+  WIFI (Intel 9560 on ASUS ROG STRIX Z390I Motherboard)
