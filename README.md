@@ -16,9 +16,9 @@
 
 ## 2. USB stick for install
 
-  (1) On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system;
+  (1) On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system
 
-  (2)Create a macOS USB installer:
+  (2)Create a MacOS USB installer
 
   sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Catalina /Applications/Install\ macOS\ Catalina.app --nointeraction
 
