@@ -20,7 +20,7 @@
 
   (2)Create a MacOS USB installer
 
-  sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Catalina /Applications/Install\ macOS\ Catalina.app --nointeraction
+  sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume  /Volumes/Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app --nointeraction
 
   (3)Install OpenCoer 0.5.4 or above to the EFI partition on USB stick
 
