@@ -1,12 +1,31 @@
 # Hackintosh-Asus Z390I ITX 9700K
-MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with Core I7-9700K
+# MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with Core I7-9700K
 
-一 硬件配置
-华硕 Rog Z390-I ITX 主板
-Intel 970 M.2 接口 512GB SSD, 三星 EVO PRO M.2接口 512GB SSD
-32GB (16GB X2) DDR4 RAM
+1. Platform Part List:
+CPU	Intel - Core i7-9700K 3.6 GHz 8-Core Processor
+Motherboard	Asus - ROG STRIX Z390I HERO ITX LGA1151 Motherboard
+Memory	DDR4 32GB (2x16GB) 3200MHz Memory
+Video Card	Yeston - Radeon RX 560D 4 GB Video Card
+SSD1  Samsung 970 PRO 512GB M.2 NVMe SSD (For MacOS Catalina)
+SSD2  Intel 760P 512GB M.2 NVMe SSD (For Windows10)
 
-二 使用OpenCore U盘启动安装
-U盘制作方式：
-(1)在MACbook上制作，使用磁盘工具，把一个64GB 盘“抹掉”格式化成 GUID分区格式，日志文件系统，命名为 Catalina
-(2)
+2. USB stick for install
+(1)On a MAC, using DiskUtility GUI tool to create a 16GB+ USB stick named Catalina with GUID partition and Apple JHFS+ file system;
+(2)Create a macOS USB installer:
+  sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Catalina /Applications/Install\ macOS\ Catalina.app --nointeraction
+(3)Install OpenCoer 0.5.4 or above to the EFI partition on USB stick
+(4)Boot for the USB stick and install MacOS Catalina
+
+3. Working
+
+Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
+NVME - Samsung 970 EVO 2TB (~2.5 GB/s WRITE, ~3.1 GB/s READ via BlackMagic Disk Speed Test)
+Yeston RX 560D DP output linked to a AOC 27" 4K display
+Wired Ethernet - Intel I219V7 PCI Express Gigabit Ethernet
+USB ports
+Sleep/Wake
+Audio (ALC1220) with DP 
+Bluetooth
+
+4. Not Working
+WIFI (Intel 9560 on ASUS ROG STRIX Z390I)
