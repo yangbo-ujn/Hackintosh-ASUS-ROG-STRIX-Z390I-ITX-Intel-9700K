@@ -1,8 +1,8 @@
-# MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with Core I7-9700K
+# MAC OSX Catalina 15.2 installed on ROG-Z390I Motherboard with OpenCore 0.5.4
 
 1. Platform Part List
 
-CPU	Intel - Core i7-9700K 3.6 GHz 8-Core Processor
+CPU	Intel  Core i7-9700K 3.6 GHz 8-Core Processor
 
 Motherboard	Asus - ROG STRIX Z390I HERO ITX LGA1151 Motherboard
 
@@ -30,9 +30,7 @@ SSD2  Intel 760P 512GB M.2 NVMe SSD (For Windows10)
 
 Catalina 15.1 install boots successfully,and than updated to 15.2, 15.3 (with OpenCore-0.5.6)
 
-NVME - Samsung 970 EVO 2TB (~2.5 GB/s WRITE, ~3.1 GB/s READ via BlackMagic Disk Speed Test)
-
-Yeston RX 560D DP output linked to a AOC 27" 4K display
+Yeston RX 560D DP output linked to an AOC 27" 4K display
 
 Wired Ethernet - Intel I219V7 PCI Express Gigabit Ethernet
 
@@ -42,8 +40,8 @@ Sleep/Wake
 
 Audio (ALC1220) with DP 
 
-Bluetooth
+On board Bluetooth
 
 4. Not Working
 
-WIFI (Intel 9560 on ASUS ROG STRIX Z390I)
+WIFI (Intel 9560 on ASUS ROG STRIX Z390I Motherboard)
