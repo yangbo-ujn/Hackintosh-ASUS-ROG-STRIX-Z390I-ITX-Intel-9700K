@@ -1,3 +1,7 @@
+May.23,2020: 
+# MAC OSX Catalina 15.4 installed on ASUS ROG Z390I Motherboard with OpenCore 0.5.8
+
+
 # MAC OSX Catalina 15.2 installed on ASUS ROG Z390I Motherboard with OpenCore 0.5.4
 
 ## 1. Platform Part List
